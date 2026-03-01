@@ -1,2 +1,2 @@
-# lab2
+# All Labs
 # ROS
